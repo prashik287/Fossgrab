@@ -1,4 +1,4 @@
-<h1 align="center">🧲 F̷̪̘̟̖̼̫̞̼̠̘̽̿͌̿͐̚͝o̵̢̟̜͓̗̪͌̍̀̄̾͐͋̍̾̍̋̐̎͛̚͝s̴̡͎̙̗̳̰̮̳̖̤̜͂͋̇́͐̽͆͂̓̕͠ͅs̸̨̛̟͎̝̖͙̪̘̘̮̬͊̍͌̆͒̿͌͌̒̽̀̿̈́͝͝G̷̡͓̞̪̻̜͓̞̜̯̟̘̻̼͔̻͊̌̔͌͛́͐̌͒̀r̵̢̤̘̼̙̤̲̼̩̲̤̬̲̀̓͛̎̓̿͛́̕̚͜ͅa̵̡̫̟̞̮̝͓̙͍͚͉̪̠̹̒́̾̋̀͌̇̄̿̏̈́̅̒̋͊͝b̴̗̙̜͉̞̳̱̯̗̠̲̐͌̇̈́͛͘</h1>
+<h1 align="center">🧲 FossGrab</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-alpha-blueviolet?style=for-the-badge" />
